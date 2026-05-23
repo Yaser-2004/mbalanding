@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { ArrowRight, Download, Sparkles, GraduationCap, Calendar, Radio } from "lucide-react";
-import heroImg from "@/assets/hero-mba.jpg";
+import heroImg from '../../assets/hero-mba.jpg'
 
 const badges = [
   { icon: Radio, label: "Live Weekend Classes" },
